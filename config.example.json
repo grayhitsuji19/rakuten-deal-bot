@@ -1,0 +1,29 @@
+{
+  "rakuten": {
+    "application_id": "楽天ウェブサービスのアプリID（UUID形式）",
+    "access_key": "pk_で始まるアクセスキー",
+    "affiliate_id": "楽天アフィリエイトID",
+    "origin": "https://あなたのGitHubユーザー名.github.io",
+    "search_api_version": "20260701",
+    "ranking_api_version": "20220601",
+    "request_interval_sec": 1.6,
+    "force_ipv4": true
+  },
+  "x": {
+    "enabled": false,
+    "api_key": "",
+    "api_secret": "",
+    "access_token": "",
+    "access_secret": "",
+    "interval_sec": 600
+  },
+  "db_path": "data/prices.db",
+  "site_title": "一人暮らしの楽天 買い時ノート",
+  "hashtag": "#楽天 #一人暮らし",
+  "min_review_count": 30,
+  "min_history_days": 7,
+  "min_drop_percent": 5,
+  "min_point_rate": 5,
+  "max_posts_per_day": 5,
+  "repost_cooldown_days": 7
+}
