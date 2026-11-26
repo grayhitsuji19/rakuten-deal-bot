@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://grayhitsuji19.github.io/rakuten-deal-bot/sitemap.xml
